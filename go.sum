@@ -118,8 +118,8 @@ github.com/iris-contrib/blackfriday v2.0.0+incompatible/go.mod h1:UzZ2bDEoaSGPbk
 github.com/iris-contrib/go.uuid v2.0.0+incompatible/go.mod h1:iz2lgM/1UnEf1kP0L/+fafWORmlnuysV2EMP8MW+qe0=
 github.com/iris-contrib/i18n v0.0.0-20171121225848-987a633949d0/go.mod h1:pMCz62A0xJL6I+umB2YTlFRwWXaDFA0jy+5HzGiJjqI=
 github.com/iris-contrib/schema v0.0.1/go.mod h1:urYA3uvUNG1TIIjOSCzHr9/LmbQo8LrOcOqfqxa4hXw=
-github.com/adodge-bcg/dictionary v0.0.0-20160629041621-229cf68df1a6 h1:0nXhHuURcs0MorJcVwuKnonLQwGw4SoI8gsbOkorzTM=
-github.com/adodge-bcg/dictionary v0.0.0-20160629041621-229cf68df1a6/go.mod h1:b/VP1njSxI6yVc/lGA3fuzc1hxJ84X0X8vXcb8x3jow=
+github.com/jbowens/dictionary v0.0.0-20160629041621-229cf68df1a6 h1:0nXhHuURcs0MorJcVwuKnonLQwGw4SoI8gsbOkorzTM=
+github.com/jbowens/dictionary v0.0.0-20160629041621-229cf68df1a6/go.mod h1:b/VP1njSxI6yVc/lGA3fuzc1hxJ84X0X8vXcb8x3jow=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/juju/errors v0.0.0-20181118221551-089d3ea4e4d5/go.mod h1:W54LbzXuIE0boCoNJfwqpmkKJ1O4TCTZMetAt6jGk7Q=

@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/cockroachdb/pebble"
-	"github.com/adodge-bcg/codenames"
+	"github.com/jbowens/codenames"
 	"github.com/pkg/errors"
 )
 

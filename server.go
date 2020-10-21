@@ -15,7 +15,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/adodge-bcg/dictionary"
+	"github.com/jbowens/dictionary"
 )
 
 var closed chan struct{}
