@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/jbowens/dictionary"
+	"github.com/adodge-bcg/dictionary"
 )
 
 var testWords []string
